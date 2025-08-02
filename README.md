@@ -1,10 +1,10 @@
 # Decoding High-Order Clinical Correlations: A Knowledge-Driven Large Language Model (LLM) Framework for Specialized Medical Decision-Making
 The source code and materials of Decoding High-Order Clinical Correlations: A Knowledge-Driven Large Language Model (LLM) Framework for Specialized Medical Decision-Making
 
-##1. The source knowledge base
+## 1. The source knowledge base
 The source knowledge files are provided in [Google Drive](https://drive.google.com/drive/folders/1QhtS1D1LSukheM5YDD03ONpYWP96RKHw?usp=sharing).
 
-##2.The Prompt patterns and Questions examples are as following:
+## 2.The Prompt patterns and Questions examples are as following:
 Example:
 The following are multiple choice questions (with answers) about medical knowledge. 
 ** Question ** Patient, 22 years old. He has a history of 2 years of dysphagia, with no relief with medication, and a barium esophagogram with a bird's beak-like narrowing of the lower esophagus. 
@@ -33,5 +33,5 @@ Thus, the most appropriate answer could be "All of the above". However, the answ
 Please note that the question in the prompt seems to have an error. The answer "C. pancreatic dyschondroplasia" for the initial question about a patient with a bird's beak-like narrowing of the lower esophagus is incorrect. The description given fits Achalasia, which is a neuromuscular disorder of the esophagus not listed among the provided options.
 
 
-##3.The code description are as follows:
+## 3.The code description are as follows:
 
