@@ -6,11 +6,17 @@ The source knowledge files are provided in [Google Drive](https://drive.google.c
 
 ## 2.The Prompt patterns and Questions examples are as following:
 Example:
+
 The following are multiple choice questions (with answers) about medical knowledge. 
+
 ** Question ** Patient, 22 years old. He has a history of 2 years of dysphagia, with no relief with medication, and a barium esophagogram with a bird's beak-like narrowing of the lower esophagus. 
+
 A. esophageal cancer 
+
 B. benign esophageal tumor 
+
 C. pancreatic dyschondroplasia 
+
 D. esophagitis 
 E. esophageal diverticulum 
 ** Answer ** C 
