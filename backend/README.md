@@ -58,7 +58,7 @@ Thus, the most appropriate answer could be "All of the above". However, the answ
 Please note that the question in the prompt seems to have an error. The answer "C. pancreatic dyschondroplasia" for the initial question about a patient with a bird's beak-like narrowing of the lower esophagus is incorrect. The description given fits Achalasia, which is a neuromuscular disorder of the esophagus not listed among the provided options.
 
 
-## 3.The code description are as follows:
+## 3. Project Architecture
 
 This project is a knowledge-driven large language model framework designed specifically for medical decision support. The main components include:
 

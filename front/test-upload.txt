@@ -1,0 +1,31 @@
+# Test Markdown Content
+
+This is a test file for testing the knowledge base upload functionality with **Markdown support**.
+
+## Features
+
+Content includes:
+1. **Bold text** and *italic text*
+2. `Code snippets` and syntax highlighting
+3. Lists and formatting
+4. Links and tables
+
+### Code Example
+
+```javascript
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+```
+
+### Table Example
+
+| Feature | Status |
+|---------|--------|
+| Markdown | ✅ Supported |
+| Upload | ✅ Working |
+| Chat | ✅ Active |
+
+> This file can be used to verify that the upload interface and markdown rendering are working properly.
+
+**Note**: The AI responses will now support full Markdown formatting!
